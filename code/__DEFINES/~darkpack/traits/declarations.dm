@@ -225,3 +225,5 @@ Remember to update _globalvars/traits.dm if you're adding/removing/renaming trai
 #define TRAIT_BRASSKNUCKLES "brassknuckles"
 
 // END TRAIT DEFINES
+//Sidestepping Shitcode
+#define TRAIT_SIDESTEPPER "sidestepping"

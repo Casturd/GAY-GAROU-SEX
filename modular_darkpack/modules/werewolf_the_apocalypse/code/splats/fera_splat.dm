@@ -105,6 +105,7 @@
 		TRAIT_FERA_RENOWN,
 		TRAIT_FRENETIC_AURA,
 		TRAIT_SILVER_WEAKNESS,
+		TRAIT_SIDESTEPPER,
 	)
 	// id = SPLAT_FERA
 	incompatible_splats = list(
